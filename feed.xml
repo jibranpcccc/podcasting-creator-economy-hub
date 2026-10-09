@@ -4,10 +4,17 @@
     <title>Podcasting &amp; Audio Monetization Hub</title>
     <link>https://jibranpcccc.github.io/podcasting-creator-economy-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 08 Oct 2026 06:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:01:14 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/podcasting-creator-economy-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/aws Cloud Architects (Reddit)</title>
+      <link>https://www.reddit.com/r/aws/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/podcasting-creator-economy-hub/#podcasting-creator-economy-hub-reddit-20261009-1-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 06:01:14 GMT</pubDate>
+      <description>Newly verified community added to Podcasting &amp; Audio Monetization Hub: Community of AWS certified solutions architects and engineers discussing ECS, Lambda, IAM, and cost optimization.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/docker Containers (Reddit)</title>
       <link>https://www.reddit.com/r/docker/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/podcasting-creator-economy-hub/#podcasting-creator-economy-hub-reddit-20261008-1-2026-10-08</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/podcasting-creator-economy-hub/#podcasting-creator-economy-hub-forum-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 08:30:21 GMT</pubDate>
       <description>Newly verified community added to Podcasting &amp; Audio Monetization Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
-    </item>
-<item>
-      <title>Podcasting &amp; Audio Monetization Hub Initial Release</title>
-      <link>https://jibranpcccc.github.io/podcasting-creator-economy-hub/</link>
-      <pubDate>Mon, 07 Sep 2026 12:10:27 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
